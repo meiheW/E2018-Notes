@@ -14,19 +14,19 @@
 
 ## Document
 
-- **codingguide程序员代码面试指南***  
+- **codingguide程序员代码面试指南 ** 
 	* 数组
 	* 链表
 	* 递归与动态规划
 	* 排序
 	* 栈与队列
 	* 字符串
-- sword2offer剑指Offer
+- **sword2offer剑指Offer**  
 	* 链表
 	* 栈
 	* 树
 	* 其他知识点
-- onlineexam网上笔试
+- **onlineexam网上笔试 **  
 	* 20180722_pdd
 	* 20180723_alibaba_30m
 	* 20180729_huawei
@@ -44,9 +44,7 @@
 	* 20181010_pingan
 	* 20181013_eleme
 	* 20181015_beike
-
 ## Audition
-
 - 20180723-阿里巴巴  
 1.Hashmap底层原理  
 2.ConCurrentHashMap底层原理  
