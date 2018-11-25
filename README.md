@@ -47,13 +47,13 @@
 
 ## Audition
 
-- 20180723-阿里巴巴
+- 20180723-阿里巴巴  
 1.Hashmap底层原理  
 2.ConCurrentHashMap底层原理  
 3.SpringIOC启动过程，Spring源码  
 4.dubbo架构原理，消费者如何调用生产者的服务  
 
-- 20180727-携程
+- 20180727-携程  
 1.数据结构-哈希  
 2.String产生对象  
 3.String，StringBuffer，StringBuilder区别  
@@ -86,7 +86,6 @@
 4.三次握手，四次挥手  
 四、linux：  
 1.Linux的可执行文件标识，文件系统  
-
 综合面：  
 1.介绍自己  
 2.荣誉奖励  
@@ -155,7 +154,6 @@ Integer与int：装箱拆箱，数据库检索出哪个类型来接
 数据库索引如何添加，越多越好？b+索引  
 线程安全，哪些方式  
 redis分布式锁  
-
 ------20180927------  
 自我介绍和实习  
 为什么从第一个实习公司离职  
@@ -177,7 +175,6 @@ Spring源码或者JDK源码有看过吗
 如何学习的，职业规划  
 项目或者实习过程中有没有比较深的BUG修复  
 有没有什么想问的：部门，具体业务  
-
 ------20180929------  
 自我介绍  
 你为什么选择现在的课题  
@@ -192,10 +189,10 @@ Spring源码或者JDK源码有看过吗
 你对同事的期望  
 你对上司的期望  
 
-- 20180930-饿了么 
-1.HashMap & ConcurrentHashMap  
-2.ReeTrantLock  
-3.SpringIoC，AOP，IoC利用什么机制  
+- 20180930-饿了么  
+HashMap & ConcurrentHashMap  
+ReeTrantLock  
+SpringIoC，AOP，IoC利用什么机制  
 
 - 20181019-滴滴  
 --------2018.10.19 一面--------  
