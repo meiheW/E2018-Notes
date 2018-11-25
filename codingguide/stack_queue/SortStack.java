@@ -1,4 +1,4 @@
-package coding_guide.stack_queue;
+package codingguide.stack_queue;
 
 import java.util.*;
 

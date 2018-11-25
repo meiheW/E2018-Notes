@@ -1,4 +1,4 @@
-package coding_guide.array_matrix;
+package codingguide.array_matrix;
 
 import java.util.ArrayList;
 import java.util.Arrays;

@@ -1,4 +1,4 @@
-package coding_guide.sort;
+package codingguide.sort;
 
 import java.util.Arrays;
 

@@ -1,4 +1,4 @@
-package coding_guide.linkedList;
+package codingguide.linkedList;
 
 import java.util.*;
 

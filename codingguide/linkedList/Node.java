@@ -1,4 +1,4 @@
-package coding_guide.linkedList;
+package codingguide.linkedList;
 
 public class Node {
 	public int value;

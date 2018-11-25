@@ -1,4 +1,4 @@
-package coding_guide.stack_queue;
+package codingguide.stack_queue;
 import java.util.*;
 
 //1.1设计一个有getMin功能的栈                                                                                                                                 

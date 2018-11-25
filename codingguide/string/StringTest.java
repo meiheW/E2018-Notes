@@ -1,4 +1,4 @@
-package coding_guide.string;
+package codingguide.string;
 
 import java.util.*;
 

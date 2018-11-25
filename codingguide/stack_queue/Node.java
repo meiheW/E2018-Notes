@@ -1,4 +1,4 @@
-package coding_guide.stack_queue;
+package codingguide.stack_queue;
 
 public class Node {
 	public int value;
