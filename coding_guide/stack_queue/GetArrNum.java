@@ -1,4 +1,4 @@
-package StackandQueue;
+package coding_guide.stack_queue;
 import java.util.*;
 
 public class GetArrNum {

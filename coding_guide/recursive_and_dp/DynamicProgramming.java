@@ -1,4 +1,4 @@
-package RecursiveandDynamicProgramming;
+package coding_guide.recursive_and_dp;
 
 import java.util.*;
 

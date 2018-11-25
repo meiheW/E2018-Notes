@@ -1,11 +1,10 @@
-package ArrayAndMatrix;
+package coding_guide.array_matrix;
 
 import java.util.Arrays;
 import java.util.HashMap;
 import java.util.Map;
 import java.util.Set;
 
-import org.junit.Test;
 
 public class ArrayTest {
 	
@@ -54,16 +53,6 @@ public class ArrayTest {
 		for(int i=0; i<arr.length; i++)
 			System.out.print(arr[i]+" ");
 		System.out.println();
-	}
-	
-	@Test
-	public void demo(){
-		int[] arr = new int[]{2,3,1,5,4,9,0};
-		int[] res = findMinK(arr, 3);
-		printArr(res);
-		
-		int[] arr2 = new int[]{1,1,2,2,2,2,2,2,3,3,3};
-		printXH(arr2);
 	}
 	
 	

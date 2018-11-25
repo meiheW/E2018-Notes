@@ -1,4 +1,4 @@
-package StringProblem;
+package coding_guide.string;
 
 import java.util.*;
 
@@ -25,7 +25,7 @@ public class StringTest {
 		return true;
 	}
 	
-	//5.2�ַ����������Ӵ������(O(N),O(1))
+	//5.2�ַ����������Ӵ������?(O(N),O(1))
 	public static int numSum(String str)
 	{
 		if(str==null||str.length()==0)
@@ -42,7 +42,7 @@ public class StringTest {
 			if(cur>=0 && cur<=9){
 				num = 10 * num + (flag ? cur : -cur);  
 			}else {
-				res+=num;//�������
+				res+=num;//�������?
 				num=0;
 				if(chs[i]=='-') {
 					if(chs[i-1]=='-'&&i-1>-1)//ǰһ��Ҳ��'-'ȡ��
@@ -57,7 +57,7 @@ public class StringTest {
 				}
 			}
 		}
-		res += num;//���һ������
+		res += num;//���һ������?
 		return res;
 	}
 	
@@ -174,13 +174,13 @@ public class StringTest {
 	}
 	
 	public static void main1(String[] args) {
-		// TODO �Զ����ɵķ������
+		// TODO �Զ����ɵķ������?
 		//5.1�ж������ַ����Ƿ�Ϊ���δ�
 		String str1 = "1323";
 		String str2 = "3213";
 		boolean dres = isDeformation(str1, str2);
 		System.out.println(dres);
-		//5.2�ַ����������Ӵ������
+		//5.2�ַ����������Ӵ������?
 		int numres = numSum("A1CD2E33");
 		System.out.println(numres);
 		

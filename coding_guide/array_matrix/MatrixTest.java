@@ -1,9 +1,7 @@
-package ArrayAndMatrix;
+package coding_guide.array_matrix;
 
 import java.util.ArrayList;
 import java.util.Arrays;
-
-import org.junit.Test;
 
 public class MatrixTest {
 	
@@ -29,20 +27,6 @@ public class MatrixTest {
 		return found;
 	
 	}
-	
-	@Test
-	public void demo(){
-		int[][] matrix = new int[][]{
-										{0,1,2,5},
-										{2,3,4,7},
-										{4,4,4,8},
-										{5,7,7,9}
-									};
-		boolean res = findNumInSortedMatrix(matrix, 10);
-		System.out.println(res);
-	}
-	
-	
 	
 	
 }

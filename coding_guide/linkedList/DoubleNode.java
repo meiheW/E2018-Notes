@@ -1,4 +1,4 @@
-package LinkedListProblem;
+package coding_guide.linkedList;
 
 public class DoubleNode {
 	public int value;

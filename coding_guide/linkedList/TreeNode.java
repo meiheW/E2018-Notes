@@ -1,4 +1,4 @@
-package LinkedListProblem;
+package coding_guide.linkedList;
 
 public class TreeNode {
 	public int value;
