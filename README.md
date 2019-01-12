@@ -1,6 +1,6 @@
 <div align="center">
     <h1>
-    	Inteview2018-Notes
+    	Interview2018-Notes
 	</h1>
 	</h1>
 		2018秋招机试及准备编程题记录
